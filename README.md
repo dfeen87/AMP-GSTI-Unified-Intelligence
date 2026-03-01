@@ -476,6 +476,10 @@ We welcome contributions! Please follow these guidelines:
 
 ---
 
+## Acknowledgements
+
+This project was developed with a combination of original ideas, hands‑on coding, and support from advanced AI systems. I would like to acknowledge **Microsoft Copilot**, **Anthropic Claude**, and **OpenAI ChatGPT** for their meaningful assistance in refining concepts, improving clarity, and strengthening the overall quality of this work.
+
 ## 📄 License
 
 **MIT License** — Permissive, commercial-friendly.
