@@ -142,7 +142,7 @@ Environment variables:
 
 ## 📝 License
 
-MIT License - Same as parent project
+Non-Commercial License - Same as parent project
 
 ## 🤝 Contributing
 
