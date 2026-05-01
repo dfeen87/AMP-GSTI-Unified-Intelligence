@@ -484,8 +484,12 @@ This project was developed with a combination of original ideas, hands‑on codi
 
 ## License
 
-This project is available for **non‑commercial use only** under the terms of the included LICENSE file.  
-Commercial use requires a separate paid license. To inquire, contact: dfeen87@gmail.com
+This project is 100% open-source under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Enterprise Consulting & Integration
+This architecture is fully open-source under the MIT License. If your organization requires custom scaling, proprietary integration, or dedicated technical consulting to deploy these models at an enterprise level, please reach out at: dfeen87@gmail.com
 
 ---
 
