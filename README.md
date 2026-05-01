@@ -4,6 +4,7 @@
 
 ### Market-Aware, Merit-Based Talent Evaluation
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-v3.1.1-blue.svg)](https://github.com/dfeen87/amp-gsti-unified-intelligence/releases)
 [![Status](https://img.shields.io/badge/status-production--ready-success.svg)](https://github.com/dfeen87/amp-gsti-unified-intelligence)
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
